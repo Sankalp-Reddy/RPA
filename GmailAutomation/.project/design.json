@@ -1,0 +1,24 @@
+{
+  "Tags": [
+    {
+      "Key": "gmail automation"
+    },
+    {
+      "Key": "email automation"
+    },
+    {
+      "Key": "email"
+    },
+    {
+      "Key": "gmail"
+    },
+    {
+      "Key": "logging"
+    },
+    {
+      "Key": "email logging"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
